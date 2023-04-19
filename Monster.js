@@ -29,3 +29,5 @@ const Monsters = {
     drakeema: new Monster("Drakeema", 26, 26, 27, 0, 14, 0, 2, 11, 24["HEAL", "HURT"]), // 25% chance to cast HEAL if HP < 25% of max HP, 50% chance to cast HURT
     skeleton: new Monster("Skeleton", 28, 22, 30, 0, 15, 0, 4, 11, 29),
 }
+
+module.exports = Monsters;

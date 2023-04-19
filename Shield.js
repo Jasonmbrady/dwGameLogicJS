@@ -4,4 +4,4 @@ const Shields = {
     silverShield: {name:"Silver Shield", defense: 20, cost: 14800, description: "A silvered shield that is very effective at deflecting attacks."},
 }
 
-export default Shields;
+module.exports =  Shields;

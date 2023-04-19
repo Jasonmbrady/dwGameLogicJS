@@ -14,4 +14,4 @@ const Armor = {
     erdrickArmor: {name: "Erdrick's Armor", defense: 28, cost: 0, description: "The legendary armor of your ancient ancestor Erdrick. Restores health while travelling even faster than the Magic Armor. It is said it can protect you from the firey breath of dragons."}
 }
 
-export default Armor;
+module.exports = Armor;

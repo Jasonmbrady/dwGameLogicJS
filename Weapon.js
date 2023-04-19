@@ -14,4 +14,4 @@ const Weapons = {
     ErdrickSword: {name: "Erdrick's Sword", attack: 40, cost: 0, description: "The legendary sword of your ancient ancestor Erdrick. It is said that it can slay even the Lord of Dragons himself!"}
 }
 
-export default Weapons;
+module.exports =  Weapons;
